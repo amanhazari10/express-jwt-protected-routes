@@ -1,0 +1,25 @@
+{
+  "name": "express-jwt-protected-routes",
+  "version": "1.0.0",
+  "description": "Express.js backend with JWT authentication and protected routes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "jwt",
+    "authentication",
+    "protected-routes",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.1.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {}
+}
